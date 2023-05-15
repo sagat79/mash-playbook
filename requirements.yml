@@ -63,6 +63,9 @@
 - src: git+https://github.com/mother-of-all-self-hosting/ansible-role-funkwhale.git
   version: v1.3.0-rc6-0
   name: funkwhale
+- src: git+https://github.com/sagat79/ansible-role-forgejo.git
+  version: v1.19.3-0
+  name: forgejo
 - src: git+https://github.com/geerlingguy/ansible-role-docker
   version: 6.1.0
   name: geerlingguy.docker

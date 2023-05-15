@@ -74,6 +74,8 @@
 
     - role: galaxy/funkwhale
 
+    - role: galaxy/forgejo
+
     - role: galaxy/gitea
 
     - role: galaxy/gotosocial
