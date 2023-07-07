@@ -67,7 +67,7 @@
   version: v1.3.0-rc6-0
   name: funkwhale
 - src: git+https://github.com/sagat79/ansible-role-forgejo.git
-  version: v1.19.3-0
+  version: v1.19.4-0
   name: forgejo
 - src: git+https://github.com/geerlingguy/ansible-role-docker
   version: 6.1.0
