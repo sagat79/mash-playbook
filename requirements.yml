@@ -4,16 +4,19 @@
   version: v0.107.26-1
   name: adguard_home
 - src: git+https://github.com/mother-of-all-self-hosting/ansible-role-appsmith.git
-  version: v1.9.25-0
+  version: v1.9.26-0
   name: appsmith
 - src: git+https://github.com/mother-of-all-self-hosting/ansible-role-authentik.git
-  version: v2023.5.4-0
+  version: v2023.6.0-0
   name: authentik
 - src: git+https://github.com/mother-of-all-self-hosting/ansible-role-aux.git
   version: v1.0.0-1
   name: auxiliary
 - src: git+https://gitlab.com/etke.cc/roles/backup_borg.git
   version: v1.2.4-1.7.15-0
+- src: git+https://github.com/mother-of-all-self-hosting/ansible-role-clickhouse.git
+  version: v23.6.1.1524-0
+  name: clickhouse
 - src: git+https://github.com/mother-of-all-self-hosting/ansible-role-collabora-online.git
   version: v22.05.13.1.1-0
   name: collabora_online
@@ -93,10 +96,10 @@
   version: v21.1.1-0
   name: keycloak
 - src: git+https://github.com/mother-of-all-self-hosting/ansible-role-lago.git
-  version: v0.37.0-0
+  version: v0.39.0-0
   name: lago
 - src: git+https://github.com/mother-of-all-self-hosting/ansible-role-mariadb.git
-  version: v10.11.2-0
+  version: v10.11.4-0
   name: mariadb
 - src: git+https://gitlab.com/etke.cc/roles/miniflux.git
   version: v2.0.45-0
@@ -116,10 +119,10 @@
   version: v0.49.3-2
   name: navidrome
 - src: git+https://github.com/mother-of-all-self-hosting/ansible-role-netbox.git
-  version: v3.4.7-2.5.2-2
+  version: v3.4.7-2.5.2-3
   name: netbox
 - src: git+https://github.com/mother-of-all-self-hosting/ansible-role-nextcloud.git
-  version: v27.0.0-0
+  version: v27.0.0-1
   name: nextcloud
 - src: git+https://github.com/mother-of-all-self-hosting/ansible-role-owncast.git
   version: v0.1.0-0
